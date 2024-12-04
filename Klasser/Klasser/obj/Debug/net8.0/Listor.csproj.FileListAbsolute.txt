@@ -1,0 +1,15 @@
+c:\Users\artem.tsvietkov\Desktop\c-sharp\Klasser\Klasser\bin\Debug\net8.0\Listor.exe
+C:\Users\artem.tsvietkov\Desktop\c-sharp\Klasser\Klasser\bin\Debug\net8.0\Listor.deps.json
+C:\Users\artem.tsvietkov\Desktop\c-sharp\Klasser\Klasser\bin\Debug\net8.0\Listor.runtimeconfig.json
+c:\Users\artem.tsvietkov\Desktop\c-sharp\Klasser\Klasser\bin\Debug\net8.0\Listor.dll
+c:\Users\artem.tsvietkov\Desktop\c-sharp\Klasser\Klasser\bin\Debug\net8.0\Listor.pdb
+c:\Users\artem.tsvietkov\Desktop\c-sharp\Klasser\Klasser\obj\Debug\net8.0\Listor.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\artem.tsvietkov\Desktop\c-sharp\Klasser\Klasser\obj\Debug\net8.0\Listor.AssemblyInfoInputs.cache
+c:\Users\artem.tsvietkov\Desktop\c-sharp\Klasser\Klasser\obj\Debug\net8.0\Listor.AssemblyInfo.cs
+c:\Users\artem.tsvietkov\Desktop\c-sharp\Klasser\Klasser\obj\Debug\net8.0\Listor.csproj.CoreCompileInputs.cache
+c:\Users\artem.tsvietkov\Desktop\c-sharp\Klasser\Klasser\obj\Debug\net8.0\Listor.sourcelink.json
+c:\Users\artem.tsvietkov\Desktop\c-sharp\Klasser\Klasser\obj\Debug\net8.0\Listor.dll
+c:\Users\artem.tsvietkov\Desktop\c-sharp\Klasser\Klasser\obj\Debug\net8.0\refint\Listor.dll
+c:\Users\artem.tsvietkov\Desktop\c-sharp\Klasser\Klasser\obj\Debug\net8.0\Listor.pdb
+C:\Users\artem.tsvietkov\Desktop\c-sharp\Klasser\Klasser\obj\Debug\net8.0\Listor.genruntimeconfig.cache
+C:\Users\artem.tsvietkov\Desktop\c-sharp\Klasser\Klasser\obj\Debug\net8.0\ref\Listor.dll
