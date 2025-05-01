@@ -1,0 +1,14 @@
+C:\C++\c#-klasser\bin\Debug\net9.0\c#-klasser.exe
+C:\C++\c#-klasser\bin\Debug\net9.0\c#-klasser.deps.json
+C:\C++\c#-klasser\bin\Debug\net9.0\c#-klasser.runtimeconfig.json
+C:\C++\c#-klasser\bin\Debug\net9.0\c#-klasser.dll
+C:\C++\c#-klasser\bin\Debug\net9.0\c#-klasser.pdb
+C:\C++\c#-klasser\obj\Debug\net9.0\c#-klasser.GeneratedMSBuildEditorConfig.editorconfig
+C:\C++\c#-klasser\obj\Debug\net9.0\c#-klasser.AssemblyInfoInputs.cache
+C:\C++\c#-klasser\obj\Debug\net9.0\c#-klasser.AssemblyInfo.cs
+C:\C++\c#-klasser\obj\Debug\net9.0\c#-klasser.csproj.CoreCompileInputs.cache
+C:\C++\c#-klasser\obj\Debug\net9.0\c#-klasser.dll
+C:\C++\c#-klasser\obj\Debug\net9.0\refint\c#-klasser.dll
+C:\C++\c#-klasser\obj\Debug\net9.0\c#-klasser.pdb
+C:\C++\c#-klasser\obj\Debug\net9.0\c#-klasser.genruntimeconfig.cache
+C:\C++\c#-klasser\obj\Debug\net9.0\ref\c#-klasser.dll
